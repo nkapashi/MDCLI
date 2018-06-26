@@ -1,10 +1,10 @@
 # MDCLI
 
-Command line client tool for bitmonerod RPC calls. With mdcli you can:
+Command line client tool for bitmоnеrоd RPC calls. With mdcli you can:
 
-- Get statistics about your monero node such as sync status, inbound and outbound connections, and network stats such as network hash rate and tx pool size. 
+- Get statistics about your mоnеrоd node such as sync status, inbound and outbound connections, and network stats such as network hash rate and tx pool size. 
 
-- Use your monerod node as block explorer - query transactions and block details.
+- Use your mоnеrоd node as block explorer - query transactions and block details.
 
   
 
@@ -92,7 +92,7 @@ To run the code simply download all files in this repository and run  *python md
 
 ### Prerequisites
 
-You need **Python 3.6.3 or newer.**  Older versions will not work due to the use of f-strings. Prebuild binaries are also available. Still the better option is to run directly the python code or build to executable with cx_Freeze.
+You need **Python 3.6.3 or newer.**  Older versions will not work due to the use of f-strings. Prebuild binaries are also available. Still, the better option is to run directly the python code or build to executable with cx_Freeze.
 
 ### Compiling
 
